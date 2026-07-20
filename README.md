@@ -1,0 +1,1 @@
+shared library for common functions and utilities used across multiple projects. This library includes helper functions, constants, and shared components that can be reused to maintain consistency and reduce code duplication.
